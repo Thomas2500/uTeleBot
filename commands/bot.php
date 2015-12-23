@@ -9,7 +9,7 @@ if (count($tg->getCommand()["args"]) == 1) {
 			} else {
 				$version = "loc." . dechex(floor(filemtime("./index.php")/10240));
 			}
-			$tg->sendMessage("Hello " . $tg->getUserName() . ".\nMy name is uTeleBot (Version " . $version . ") and I'm created by [Thomas2500](https://telegram.me/Thomas2500).\n", null, true);
+			$tg->sendMessage("Hello " . $tg->getUserName() . ".\nMy name is uTeleBot (Version " . $version . ") and I'm created by [Thomas2500](https://telegram.me/Thomas2500).\nYou can grab my source code from GitHub at:\nhttps://github.com/Thomas2500/uTeleBot", null, true);
 			break;
 		default:
 			break;
