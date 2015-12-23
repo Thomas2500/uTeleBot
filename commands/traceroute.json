@@ -1,0 +1,4 @@
+{
+	"short": "Perform a traceroute",
+	"long": "Perform a traceroute to test your internet connection, your domain or whatever you want.\n`/traceroute example.com`\n`/traceroute 8.8.8.8`"
+}

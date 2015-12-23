@@ -1,0 +1,4 @@
+{
+	"short": "Encode something to base64",
+	"long": "Let's you encode a given Text to base64.\n`/encode ☁` `-> L2VuY29kZSDimIHvuI8=`"
+}

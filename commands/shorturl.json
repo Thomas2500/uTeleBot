@@ -1,0 +1,4 @@
+{
+	"short": "Save common urls for a chat",
+	"long": "With shorturl you can store common urls for your chat for fast reuse.\n`/l` - List all saved urls of this chat\n`/l name https://example.com` - Add a new url with the name `name`\n`/l remove name` - Remove a saved url with the name `name`"
+}

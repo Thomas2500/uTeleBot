@@ -1,0 +1,4 @@
+{
+	"short": "Permissions for users",
+	"long": "You can give exclusive permissions to users with this command. You can check your level with `/permission`.\n\n*ADD/CHANGE*\n`/permission add super @Thomas2500`\nAdds a user to a given group.\n*REMOVE*\n`/permission remove @Thomas2500`\nRemoves the user permission.\n\n*GROUPS*\n`ADMIN_NOTHING` `->` Every normal user without permission.\n`ADMIN_CHAT` `->` Per chat admin.\n`ADMIN_GLOBAL` `->` Admin for all chats.\n`ADMIN_SUPER` `->` The admin of all admins"
+}

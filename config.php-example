@@ -1,0 +1,9 @@
+<?php
+
+///////////////////////////////
+/// MAIN CONFIGURATION FILE ///
+///////////////////////////////
+
+// The API-Key of your bot.
+// Normally starts with an numer, has a colon and weird chars
+define("API_KEY", "");

@@ -1,0 +1,4 @@
+{
+	"short": "Perform a ping on a IPv4/IPv6 or domain",
+	"long": "Perform a ping to test your internet connection, your domain or whatever you want.\n*Examples:*\n`/ping example.com`\n`/ping 8.8.8.8`\n`/ping 2a03:4000:20:16::1`"
+}

@@ -1,0 +1,4 @@
+{
+	"short": "Get the current weather",
+	"long": "Get the current weather to a given city\n`!weather Siegenfeld` - Shows the weather on a specific place on earth.\nBy default, Siegenfeld is used as location.\n\nData provided by openweathermap.org"
+}

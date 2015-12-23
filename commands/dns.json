@@ -1,0 +1,4 @@
+{
+	"short": "Perform a DNS lookup",
+	"long": "Perform a DNS lookup to test your internet connection, your domain or whatever you want.\n`/dns example.com`\nYou can request custom fields with `/dns example.com AAAA`\n*Allowed fields:*\n`A, AAAA, MX, TXT, SOA, NS`"
+}

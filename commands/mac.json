@@ -1,0 +1,4 @@
+{
+	"short": "Get the vendor of a MAC address",
+	"long": "Outputs the vendor of a MAC address.\nAccepts long, short and extreme-short MAC addresses.\n`/mac 00:20:91:AB:CD:EF` or `/mac 002091ABCDEF` or `/mac 002091`"
+}
